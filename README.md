@@ -1,6 +1,7 @@
 # Finance pour manager
 
 **📈 Analyse Financière de Carrefour via Bloomberg**
+![Page de garde 1 ](https://github.com/user-attachments/assets/d68c080f-4fdb-407e-b6a0-7cfb0d7b50ee)
 
 ***📖 Ce qu'est le projet***
 
